@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Skills
       text: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Experience
       # Date format for experience
@@ -86,6 +88,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -128,6 +131,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: posts
     content:
       title: Recent Posts
@@ -155,6 +159,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: projects
     content:
       title: Projects
@@ -182,6 +187,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Gallery
       subtitle: ''
@@ -225,6 +231,7 @@ sections:
       columns: '2'
       view: compact
   - block: tag_cloud
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Popular Topics
     design:
