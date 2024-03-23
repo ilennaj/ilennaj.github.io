@@ -237,6 +237,7 @@ sections:
     design:
       columns: '2'
   - block: contact
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: contact
     content:
       title: Contact
