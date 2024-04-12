@@ -131,7 +131,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     id: posts
     content:
       title: Recent Posts
