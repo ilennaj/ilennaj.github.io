@@ -19,9 +19,6 @@ image:
 ---
 8.5 min read.
 
-![jpg](towards-coding.jpg)
-
-
 I left behind my days working at the bench for working at the computer and white-board. You’d probably ask me why. The short answer is that I found I liked it better. The long answer, as well as some tl;dr takeaways at the bottom of this are below. Here is the story of my first year in grad school training to get a PhD: my path toward understanding machine learning from scratch and what I considered as I was choosing a lab.
 
 My 8 years time in wet-lab environments as a highschooler, undergraduate and technician were productive and I’ve got the cv to prove it. However, there were only a couple times I felt like I was contributing to the experimental design or the logic that was the foundation for what I did every day. Carrying the spectre of imposter syndrome on my back for as long as I’ve wanted to be a scientist, I believed that creatively contributing to the logical foundation of a project was something I had to do to be a “real” scientist. Hungry for that, I went into my first-year neuroscience PhD rotations. 
