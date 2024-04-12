@@ -1,7 +1,7 @@
 ---
 title: "A Leap of Faith: Switching to computation from a wet-lab background"                   # (require) a string title
 date: '2019-11-05'            # (require) a post date
-url: www.ilenna.com/advice/2019/11/05/leap-of-faith.html
+url: advice/2019/11/05/leap-of-faith.html
 summary: Here is the story of my 1st year in grad school training to get a PhD - my path toward understanding machine learning from scratch and what I considered as I was choosing a lab.
 authors:
   - admin

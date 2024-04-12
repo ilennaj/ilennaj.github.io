@@ -1,7 +1,7 @@
 ---
 title: "Fellowships and Candidacy: Growing from the Challenge"                   # (require) a string title
 date: '2020-06-18'     # (require) a post date
-url: www.ilenna.com/advice/2020/06/18/fellowships-and-candidacy.html
+url: advice/2020/06/18/fellowships-and-candidacy.html
 summary: I learned that I was awarded the 2020 Howard Hughes Medical Institute (HHMI) Gilliam Graduate Fellowship grant. News of the award both revived and resolved some complex emotions.
 authors:
   - admin
