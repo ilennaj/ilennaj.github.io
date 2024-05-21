@@ -1,8 +1,9 @@
 ---
 title: Neural computation of machine learning tasks emerges from the interaction of dendritic properties
 
+url: /can-single-neuron-solve-mnist/
 event: COSYNE Workshop - Dendritic computations and neuro-inspired AI
-event_url: https://example.org
+event_url: https://www.cosyne.org/
 
 location: Montreal, Canada
 address:
@@ -17,7 +18,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-14T01:00:00Z'
+date: '2023-03-14T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
