@@ -10,7 +10,7 @@ tags:
   - advice
 categories:
   - advice
-featured: true
+featured: false
 image:
   caption: 'A self-portrait'
   focal_point: ''

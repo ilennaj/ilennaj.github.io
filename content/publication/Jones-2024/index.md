@@ -1,5 +1,5 @@
 ---
-title: 'Do Biological Constraints Impair Dendritic Computation?'
+title: 'Efficient optimization of ODE neuron models using gradient descent'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,11 +12,11 @@ authors:
 author_notes:
   - ''
 
-date: '2022-05-01T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.neuroscience.2021.07.036'
+date: '2024-07-04T00:00:00Z'
+doi: 'https://doi.org/10.48550/arXiv.2407.04025'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-02T00:00:00Z'
+publishDate: '2024-07-04T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,18 +24,18 @@ publishDate: '2022-05-02T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Neuroscience
+publication: arXiv
 publication_short: ''
 
-abstract: Computations on the dendritic trees of neurons have important constraints. Voltage dependent conductances in dendrites are not similar to arbitrary direct-current generation, they are the basis for dendritic nonlinearities and they do not allow converting positive currents into negative currents. While it has been speculated that the dendritic tree of a neuron can be seen as a multi-layer neural network and it has been shown that such an architecture could be computationally strong, we do not know if that computational strength is preserved under these biological constraints. Here we simulate models of dendritic computation with and without these constraints. We find that dendritic model performance on interesting machine learning tasks is not hurt by these constraints but may benefit from them. Our results suggest that single real dendritic trees may be able to learn a surprisingly broad range of tasks.
+abstract: Neuroscientists fit morphologically and biophysically detailed neuron simulations to physiological data, often using evolutionary algorithms. However, such gradient-free approaches are computationally expensive, making convergence slow when neuron models have many parameters. Here we introduce a gradient-based algorithm using differentiable ODE solvers that scales well to high-dimensional problems. GPUs make parallel simulations fast and gradient calculations make optimization efficient. We verify the utility of our approach optimizing neuron models with active dendrites with heterogeneously distributed ion channel densities. We find that individually stimulating and recording all dendritic compartments makes such model parameters identifiable. Identification breaks down gracefully as fewer stimulation and recording sites are given. Differentiable neuron models, which should be added to popular neuron simulation packages, promise a new era of optimizable neuron models with many free parameters, a key feature of real neurons.
 
 # Summary. An optional shortened abstract.
-summary: It is unclear if biological qualities, or constraints, impact a learning and computing neuron model positively, negatively, or at all. We simulate models with and without these constraints. We find models with a combination of biological constraints can outperform models with isolated introduced constraints. Qualitative dendritic properties may contribute inductive biases to neuron models that learn and compute.
+summary: Training morphologically and biophysically detailed neuron models is computationally expensive. Here we demonstrate through implementation of neuron simulations in PyTorch that the gradient-based backpropagation of error algorithm can be used to efficiently optimize such models.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
