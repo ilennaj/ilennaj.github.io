@@ -93,8 +93,8 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/IlennaJ
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/ilennaj.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Ilenna Jones is a Research fellow at the Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard. Her research interests include neuronal biophysics and computation, model optimization, and neuroscience for AI. She received her B.A. in Neuroscience in 2015 from Dartmouth College. In 2023 she received her PhD in Neuroscience at the University of Pennsylvania in Konrad Kording’s laboratory. Ilenna began her position as a Research Fellow in the Kempner Institute in 2023.
+Ilenna Jones is a Research fellow at the Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard. Her research interests include neuronal biophysics and computation, model optimization, and neuroscience for AI. She received her B.A. in Neuroscience in 2015 from Dartmouth College. In 2023 she received her PhD in Neuroscience at the University of Pennsylvania in Konrad Kording’s laboratory. Ilenna began her position as a Research Fellow in the Kempner Institute in 2023. ijones ~a-t~ g.harvard.edu
 {style="text-align: justify;"}
